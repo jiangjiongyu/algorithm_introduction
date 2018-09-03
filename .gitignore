@@ -1,0 +1,6 @@
+*.pro
+*.pro.user
+bulid*
+.o
+.exe
+Makefile*
