@@ -4,3 +4,5 @@ bulid*
 *.o
 *.exe
 Makefile*
+.bin
+.vscode
